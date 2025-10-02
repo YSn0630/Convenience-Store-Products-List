@@ -1,7 +1,7 @@
 import sys
 from PyQt5.QtWidgets import *
 from convDB_connect import DB, config
-from conv_CRUD import Ins_lists, Upd_lists, Dlt_lists
+from convDB_CRUD import Ins_lists, Upd_lists, Dlt_lists
 
 
 class Window(QMainWindow):
